@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Visionneuse Ferquin",
+    "imageUrl": "ferquin",
+    "description": "Marque : R. Ferquin. Etiquette de mode d'emploi : Visionneuses Ferquin. Made in France. Courbevoie.",
+    "statut": "à vendre",
+    "prix": 0
+  },
+  {
+    "title": "Projecteur Magnon duomatic DX87",
+    "imageUrl": "magnon",
+    "description": "PROJECTEUR BIFORMAT SUPER 8 / 8MM - MAGNON DX87 avec emballage d'origine.",
+    "statut": "à vendre",
+    "prix": 0
+  },
+  {
+    "title": "Appareil photo RICOH FF-70",
+    "imageUrl": "Ricoh_FF_70",
+    "description": "Marque : Riken Optical. Modèle : Ricoh FF-70. Format 35 mm 24 x 36.Caractéristiques : 1985. Compact autofocus motorisé qualifié à l'époque de haut de gamme. Objectif Rikenon 35mm 1:2.8 cinq lentilles en 5 groupes. Obturateur de 2 secondes à 1/500ème",
+    "statut": "à vendre",
+    "prix": 0
+  },
+  {
+    "title": "Moulin à poivre en laiton ciselé UYGUNTIC",
+    "imageUrl": "poivre",
+    "description": "Marque : UYGUNTIC. Moulin à poivre / café / épices en laiton ciselé.",
+    "statut": "à vendre",
+    "prix": 0
+  },
+  {
+    "title": "Briquet deluxe by KBL",
+    "imageUrl": "briquet",
+    "description": "Marque : KBL. Briquet deluxe by KBL butane gas. Couleur cuivrée.",
+    "statut": "à vendre",
+    "prix": 0
+  }
+]
